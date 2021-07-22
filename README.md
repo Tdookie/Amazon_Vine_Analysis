@@ -28,3 +28,8 @@ We focused on the US reviews for video games.
 <img width="679" alt="Screen Shot 2021-07-22 at 1 43 40 AM" src="https://user-images.githubusercontent.com/77812423/126594553-915ea0fe-ece9-4b11-8a50-05c7ec804ab0.png">
 
 - Non-Vine Reviews
+<img width="702" alt="Screen Shot 2021-07-22 at 1 44 31 AM" src="https://user-images.githubusercontent.com/77812423/126594622-e7e39caf-9dc4-44cf-aea1-3345be9444a1.png">
+
+# Summary 
+51% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 39%. This describes a positivity bias for reviews in the Vine program.
+Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
