@@ -22,3 +22,6 @@ We focused on the US reviews for video games.
 
 - Non-Vine Reviews
 <img width="686" alt="Screen Shot 2021-07-22 at 1 41 40 AM" src="https://user-images.githubusercontent.com/77812423/126594425-462c9535-7cfe-4418-9067-a10d810f4733.png">
+
+## Percentage of 5 Star Reviews
+- Vine Reviews
