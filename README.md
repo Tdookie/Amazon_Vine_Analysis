@@ -5,3 +5,5 @@ The analysis uses PySpark to perform the ETL process to extract the dataset, tra
 We focused on the US reviews for video games.
 
 # Resources
+- Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
+- Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
