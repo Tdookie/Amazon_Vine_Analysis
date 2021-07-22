@@ -7,3 +7,7 @@ We focused on the US reviews for video games.
 # Resources
 - Data Source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 - Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
+
+# Results
+## Total number of reviews 
+- Vine Reviews
