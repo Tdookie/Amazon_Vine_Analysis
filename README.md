@@ -21,3 +21,4 @@ We focused on the US reviews for video games.
 <img width="647" alt="Screen Shot 2021-07-22 at 1 40 39 AM" src="https://user-images.githubusercontent.com/77812423/126594354-d8f9aa0d-0e11-4fe0-8ac2-d093f5f5bfe3.png">
 
 - Non-Vine Reviews
+<img width="686" alt="Screen Shot 2021-07-22 at 1 41 40 AM" src="https://user-images.githubusercontent.com/77812423/126594425-462c9535-7cfe-4418-9067-a10d810f4733.png">
